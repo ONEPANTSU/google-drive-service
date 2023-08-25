@@ -1,0 +1,7 @@
+
+client_secrets.json
+/.env
+
+.idea/
+
+__pycache__/
